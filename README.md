@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**nia1099/nia1099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nia1099/nia1099** is a ✨ _special_ ✨ 
 
 Here are some ideas to get you started:
 
